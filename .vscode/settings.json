@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "regex": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp"
+    }
+}
